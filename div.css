@@ -59,7 +59,7 @@ img.responsive-image {
   }
 
   .navi {
-    display: flex;
+    display: flex; 
     /* flex-wrap: wrap; */
 
     align-items: center;
